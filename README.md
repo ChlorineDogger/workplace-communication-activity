@@ -23,7 +23,7 @@ PRINT "SysAdmin: Great. We’ll apply the PATCH to the live server after approva
 PRINT "Security Analyst: Also, I found traces of a BACKDOOR in the old admin panel."
 PRINT "Developer B: That panel is a LEGACY module. We should plan to retire it soon."
 
-PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
+PRINT "Team Lead: Excellent updates. Continue monitoring and PING me for urgent issues."
     END FUNCTION
 
 CALL MorningSyncMeeting()
