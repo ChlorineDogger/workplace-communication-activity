@@ -27,6 +27,7 @@ PRINT "Team Lead: Excellent updates. Continue monitoring and PING me for urgent 
     END FUNCTION
 
 CALL MorningSyncMeeting()
-END
 
 The term “backdoor” refers to a hidden method or unauthorized entry point in a system or software that allows bypassing normal security controls, often used for maintenance but can be exploited for malicious access if discovered or installed without permission.
+
+END
